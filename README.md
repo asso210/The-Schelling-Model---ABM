@@ -22,5 +22,12 @@ in the figure below we can see different situation with different threshold.
 
 <img src="images/defferent_case.png" alt="different_threshold" width="350"/>
 
+There are different variants of Schelling model based on 
+
+* the form of the utility function
+* the size of neighborhoods
+* the rules for moving
+* the amount of unoccupied space
+* boundary conditions
 
 
