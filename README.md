@@ -30,4 +30,8 @@ There are different variants of Schelling model based on
 * the amount of unoccupied space
 * boundary conditions
 
+**Schelling Model result**
+
+The Schelling result is of interest to economists because it illustrates the emergence of an aggregate phenomenon which is not directly foreseen from the individual behavior and because it concerns an important economic problem, that of segregation.
+The Schelling model is based on the standard idea in economics that an individual agent makes decisions based on his preferences or utility function.
 
