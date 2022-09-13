@@ -7,3 +7,4 @@ Schelling's model of segregation is an agent-based model developed by economist 
 This trend to self-segregation is recognizable in our cities, both in the community of migrant populations and in the original inhabitants, often resulting in this case in various forms of residential associations. It can therefore be said that, within certain limits, segregation strengthens the idea of the community as opposed to the phenomenon of social disintegration that characterizes large urban centers.
 
 
+<img src="images/0.png" alt="random_initial_state" width="650"/>
