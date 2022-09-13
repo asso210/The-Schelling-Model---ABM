@@ -14,6 +14,13 @@ The original model is set in an N × N grid. Agents are split into two types, sa
 
 Moving in an empty space occurs when the element is surrounded by less than a certain percentage (in our case arbitrary) of elements belonging to the same family, with respect to the total elements that surround it. For this simulation we consider just the first eight neighbors for each agent (see figure below)
 
-<img src="images/neighbors.png" alt="eight_neighbors" width="650"/>
+<img src="images/neighbors.png" alt="eight_neighbors" width="350"/>
+
+The evolution of the system is the following. Let's start with a random position of agents and empty spaces. Then we let the system evolve. For each iteration each agents decide if stay in its position or change it based on the number of first neighbors. The simulation ends when all the elements of the grid are "happy", i.e. satisfied with the neighborhood. Sometime could happen that system doesn’t reach an equilibrium state.
+
+in the figure below we can see different situation with different threshold. 
+
+<img src="images/defferent_case.png" alt="different_threshold" width="350"/>
+
 
 
